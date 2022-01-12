@@ -72,16 +72,16 @@ const GlobalStyle = createGlobalStyle`
 `
 
 const Container = styled.div`
-    width: 100vh;
+    width: 100%;
     height: 100vh;
 
     display: flex;
     justify-content: center;
     align-items: center;
 
-    gap: 20px;
+    margin: auto 0;
 
-    margin: 0 auto;
+    gap: 200px;
 `
 
 export {
