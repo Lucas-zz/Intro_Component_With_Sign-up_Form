@@ -28,7 +28,7 @@ export default function FormContainer() {
                     required
                 />
 
-                <Button spacing={true} color="#37CC89" shadow='inset' strong={true}>CLAIM YOUR FREE TRIAL</Button>
+                <Button type="submit" spacing={true} color="#37CC89" shadow='inset' strong={true}>CLAIM YOUR FREE TRIAL</Button>
             </form>
             <TermsAndServices>By clicking the button, you are agreeing to our <mark> Terms and Services </mark></TermsAndServices>
         </Container>
