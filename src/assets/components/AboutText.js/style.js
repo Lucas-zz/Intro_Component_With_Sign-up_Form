@@ -3,9 +3,10 @@ import styled from "styled-components";
 const Title = styled.h1`
     width: 100%;
 
-    font-size: 3em;
+    font-size: 4em;
     font-weight: 700;
     line-height: 1;
+    
 
     color: #FFF;
 `
@@ -13,7 +14,7 @@ const Title = styled.h1`
 const About = styled.p`
     width: 100%;
 
-    font-size: 1em;
+    font-size: 1.3em;
     font-weight: 500;
     line-height: 1.7;
     

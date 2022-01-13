@@ -81,7 +81,7 @@ const Container = styled.div`
 
     margin: auto 0;
 
-    gap: 200px;
+    gap: 100px;
 `
 
 export {

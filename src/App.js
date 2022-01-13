@@ -1,5 +1,5 @@
 import AboutText from "./assets/components/AboutText.js";
-import FormContainer from "./assets/components/FormContainer/index.js";
+import RightContainer from "./assets/components/RightContainer/index.js";
 import { GlobalStyle, Container } from "./style";
 
 export default function App() {
@@ -8,7 +8,7 @@ export default function App() {
             <GlobalStyle />
             <Container>
                 <AboutText></AboutText>
-                <FormContainer></FormContainer>
+                <RightContainer></RightContainer>
             </Container>
         </>
     );
